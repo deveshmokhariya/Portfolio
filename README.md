@@ -258,7 +258,11 @@ RESULTS & OUTPUT
 The project successfully resulted in a functional, responsive, and visually appealing single-page portfolio website. The final output matches the initial design goals. Below are screenshots demonstrating the website's appearance and functionality on different screen sizes.
 
 
- 
+ <img width="975" height="581" alt="image" src="https://github.com/user-attachments/assets/ddc4564f-7c95-4881-ad15-c0f4271d18c5" />
+ <img width="975" height="582" alt="image" src="https://github.com/user-attachments/assets/8777f787-d85f-467f-976c-3ca53cb3c29f" />
+<img width="975" height="580" alt="image" src="https://github.com/user-attachments/assets/42d01f26-d673-4617-9e47-991853501fe5" />
+
+
 
   
 
